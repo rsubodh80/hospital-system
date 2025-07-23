@@ -35,7 +35,7 @@ const InfoSection = () => {
         <div className="flex space-x-3 flex-shrink-0">
 
           {/* Latest News Button */}
-          <button
+          {/* <button
             onClick={() => handleClick('Latest News')}
             className="bg-white rounded-lg shadow p-2 min-w-[100px] max-w-[120px] text-center hover:shadow-lg transition"
           >
@@ -43,7 +43,7 @@ const InfoSection = () => {
             <p className="text-gray-600 text-[10px] leading-tight">
               Stay updated with the latest happenings.
             </p>
-          </button>
+          </button> */}
 
           {/* Lab Reports Button */}
           <button

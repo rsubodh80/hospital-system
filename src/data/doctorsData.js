@@ -153,6 +153,14 @@ const doctors = [
     image: "https://randomuser.me/api/portraits/men/62.jpg",
     experience: "16 years",
   },
+  {
+    id: 23,
+    name: "Dr. subodh raj sah",
+    specialty: "ramjanamnbbsbsb",
+    image: "https://randomuser.me/api/portraits/women/68.jpg",
+    experience: "7 years",
+  },
+  
 ];
 
 export default doctors;

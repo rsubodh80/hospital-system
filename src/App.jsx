@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Doctors from './pages/Doctors'; // Keep one doctors page only
 import Departments from './pages/Departments';
+
 import Contact from './pages/Contact';
 import BookAppointment from './pages/BookAppointment';
 import Header from './components/Header';
